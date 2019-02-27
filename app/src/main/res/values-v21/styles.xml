@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomMenuStyle" parent="OptionMenuStyle">
+        <item name="android:elevation">1dp</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:background">@drawable/popup_menu_bg</item>
+    </style>
+
+
+</resources>
